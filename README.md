@@ -19,6 +19,5 @@ If the variables are non-stationary, differencing is applied to make them statio
 - Model Order Selection:Different lag orders (p) are tested using the VAR model, and the Akaike Information Criterion (AIC) is used to select the optimal lag order.
 - Model Training and Forecasting: The VAR model is fitted to the training data.Serial correlation of residuals is checked using the Durbin-Watson statistic.The model is used to forecast future values based on the differenced data.
 
-![my notes](/projects/TimeSeries/HeatMap.png)
 
 ### 🔗 [GitHub Code](https://github.com/Abhiashu10/TImeSeries-ARIMA-Covid19-Forecasting/blob/0531a660de0e65cc35e01c23b4c29dd90b110cc1/Time_Series-ARIMA-%20Boston_Covid19_ForeCasting.ipynb)
